@@ -5,6 +5,6 @@ https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=001004
 key words: Efficiency, DEA, Deep-Neural-Network
 
 # Requirements
-Python 3
-Tensorflow > 0.12
-R
+- Python 3
+- Tensorflow > 0.12
+- R
